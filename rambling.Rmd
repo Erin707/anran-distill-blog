@@ -1,7 +1,5 @@
 ---
 title: "All blogs"
-description: |
-  A Star Wars enthusiastic
 listing: posts
 ---
 

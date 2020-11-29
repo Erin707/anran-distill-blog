@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: |
-  A Star Wars enthusiastic
+  A Star Wars enthusiast
 
 ---
 

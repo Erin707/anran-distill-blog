@@ -5,3 +5,9 @@ description: |
 site: distill::distill_website
 
 ---
+
+
+![](Avatar.jpg)
+
+- A Ph.D in progress
+- Kind of a nerd

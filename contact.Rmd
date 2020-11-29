@@ -1,10 +1,10 @@
 ---
-title: "Contact"
-description: |
-  Find me
-
+title: "Contact Me"
 ---
-
+    
+    
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
+    
+<i class="fa fa-envelope-o"></i>  email: anran.zhao@auckland.ac.nz

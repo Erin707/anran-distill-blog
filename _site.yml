@@ -20,7 +20,7 @@ navbar:
     - text: "Contact"
       href: contact.html
     - icon: fa fa-rss
-      href: index.xml
+      href: rambling.xml
     
 output: distill::distill_article
 ---
