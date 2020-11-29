@@ -7,7 +7,7 @@ site: distill::distill_website
 ---
 
 
-![](Avatar.jpg)
+![](Avatar.jpg){width=50%}
 
 - A Ph.D in progress
 - Kind of a nerd
