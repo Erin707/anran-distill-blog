@@ -18,7 +18,6 @@ knitr::include_graphics("Avatar.jpg")
 ```
 
 
-
 - A Ph.D in progress
 - Kind of a nerd
 
