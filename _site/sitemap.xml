@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://anran.netlify.app/about_me.html</loc>
+    <lastmod>2020-11-29T20:04:38+13:00</lastmod>
+  </url>
+  <url>
+    <loc>https://anran.netlify.app/contact.html</loc>
+    <lastmod>2020-11-29T20:07:15+13:00</lastmod>
+  </url>
+  <url>
+    <loc>https://anran.netlify.app/</loc>
+    <lastmod>2020-11-29T19:41:45+13:00</lastmod>
+  </url>
+  <url>
+    <loc>https://anran.netlify.app/rambling.html</loc>
+    <lastmod>2020-11-29T20:33:01+13:00</lastmod>
+  </url>
+  <url>
+    <loc>https://anran.netlify.app/techy.html</loc>
+    <lastmod>2020-11-29T20:29:12+13:00</lastmod>
+  </url>
+  <url>
+    <loc>https://anran.netlify.app/posts/2020-11-29-first-techy-post/</loc>
+    <lastmod>2020-11-29T20:35:13+13:00</lastmod>
+  </url>
+  <url>
+    <loc>https://anran.netlify.app/posts/2020-11-29-my-first-ramble/</loc>
+    <lastmod>2020-11-29T20:14:14+13:00</lastmod>
+  </url>
+</urlset>

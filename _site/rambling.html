@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
   <meta name="generator" content="distill" />
+  <link rel="alternate" type="application/rss+xml" href="https://anran.netlify.app/rambling.xml" />
 
   <style type="text/css">
   /* Hide doc at startup (prevent jankiness while JS renders/transforms) */
@@ -86,14 +87,14 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>Anran Zhao: Blog</title>
+  <title>Anran Zhao: All blogs</title>
   
   <meta property="description" itemprop="description" content="A Star Wars enthusiastic"/>
   
   
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Anran Zhao: Blog"/>
+  <meta property="og:title" content="Anran Zhao: All blogs"/>
   <meta property="og:type" content="article"/>
   <meta property="og:description" content="A Star Wars enthusiastic"/>
   <meta property="og:locale" content="en_US"/>
@@ -101,14 +102,14 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Anran Zhao: Blog"/>
+  <meta property="twitter:title" content="Anran Zhao: All blogs"/>
   <meta property="twitter:description" content="A Star Wars enthusiastic"/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","listing"]}},"value":[{"type":"character","attributes":{},"value":["Blog"]},{"type":"character","attributes":{},"value":["A Star Wars enthusiastic\n"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","listing"]}},"value":[{"type":"character","attributes":{},"value":["All blogs"]},{"type":"character","attributes":{},"value":["A Star Wars enthusiastic\n"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2013,7 +2014,7 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Blog","description":"A Star Wars enthusiastic","authors":[]}
+{"title":"All blogs","description":"A Star Wars enthusiastic","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2027,8 +2028,21 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="about_me.html">About Me</a>
-<a href="blog.html">Blog</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Blog
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="rambling.html">Rambling</a>
+<a href="techy.html">Getting techy</a>
+</div>
+</div>
 <a href="contact.html">Contact</a>
+<a href="index.xml">
+<i class="fa fa-rss" aria-hidden="true"></i>
+</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2168,9 +2182,29 @@ function init_posts_list() {
 
 
 
-<div class="posts-container posts-apply-limit l-page">
+<div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
-<h1 class="posts-list-caption" data-caption="Blog">Blog</h1>
+<h1 class="posts-list-caption" data-caption="All blogs">All blogs</h1>
+<a href="posts/2020-11-29-first-techy-post/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["lavaan","confirmatory factor analysis"]}</script>
+<div class="metadata">
+<div class="publishedDate">Nov. 29, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Anran Zhao</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>First techy post</h2>
+<div class="dt-tags">
+<div class="dt-tag">lavaan</div>
+<div class="dt-tag">confirmatory factor analysis</div>
+</div>
+<p>A short description of the post.</p>
+</div>
+</a>
 <a href="posts/2020-11-29-my-first-ramble/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
@@ -2189,6 +2223,25 @@ function init_posts_list() {
 </div>
 </a>
 </div>
+<div class="posts-sidebar">
+<div class="sidebar-section categories">
+<h3>Categories</h3>
+<ul>
+<li>
+<a href="#category:articles">articles</a>
+<span class="category-count">(2)</span>
+</li>
+<li>
+<a href="#category:confirmatory_factor_analysis">confirmatory factor analysis</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:lavaan">lavaan</a>
+<span class="category-count">(1)</span>
+</li>
+</ul>
+</div>
+</div>
 <div class="posts-more">
 <a href="#">More articles &raquo;</a>
 </div>
@@ -2196,7 +2249,7 @@ function init_posts_list() {
 <!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>Blog</h1>
+<h1>All blogs</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 <p><p>A Star Wars enthusiastic</p></p>

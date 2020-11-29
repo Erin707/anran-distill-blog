@@ -6,15 +6,7 @@
       "description": "A Star Wars enthusiastic\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T20:15:12+13:00"
-    },
-    {
-      "path": "blog.html",
-      "title": "Blog",
-      "description": "A Star Wars enthusiastic\n",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T20:15:13+13:00"
+      "last_modified": "2020-11-29T20:40:15+13:00"
     },
     {
       "path": "contact.html",
@@ -22,7 +14,7 @@
       "description": "Find me\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T20:15:14+13:00"
+      "last_modified": "2020-11-29T20:40:16+13:00"
     },
     {
       "path": "index.html",
@@ -30,7 +22,22 @@
       "description": "Always more to be figured out... \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T20:15:15+13:00"
+      "last_modified": "2020-11-29T20:40:17+13:00"
+    },
+    {
+      "path": "rambling.html",
+      "title": "All blogs",
+      "description": "A Star Wars enthusiastic\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-11-29T20:40:18+13:00"
+    },
+    {
+      "path": "techy.html",
+      "title": "Techy blogs",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-11-29T20:40:19+13:00"
     }
   ],
   "collections": ["posts/posts.json"]

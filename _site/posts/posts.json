@@ -1,5 +1,25 @@
 [
   {
+    "path": "posts/2020-11-29-first-techy-post/",
+    "title": "First techy post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Anran Zhao",
+        "url": "https://anran.netlify.app"
+      }
+    ],
+    "date": "2020-11-29",
+    "categories": [
+      "lavaan",
+      "confirmatory factor analysis"
+    ],
+    "contents": "\r\nmy first techy post.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-11-29T20:35:13+13:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2020-11-29-my-first-ramble/",
     "title": "my first ramble",
     "description": "A short description of the post.",

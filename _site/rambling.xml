@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Anran Zhao</title>
+    <link>https://anran.netlify.app</link>
+    <atom:link href="https://anran.netlify.app/rambling.xml" rel="self" type="application/rss+xml"/>
+    <description>Anran
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>First techy post</title>
+      <dc:creator>Anran Zhao</dc:creator>
+      <link>https://anran.netlify.app/posts/2020-11-29-first-techy-post</link>
+      <description>A short description of the post.</description>
+      <category>lavaan</category>
+      <category>confirmatory factor analysis</category>
+      <guid>https://anran.netlify.app/posts/2020-11-29-first-techy-post</guid>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>my first ramble</title>
+      <dc:creator>Anran Zhao</dc:creator>
+      <link>https://anran.netlify.app/posts/2020-11-29-my-first-ramble</link>
+      <description>A short description of the post.</description>
+      <guid>https://anran.netlify.app/posts/2020-11-29-my-first-ramble</guid>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
