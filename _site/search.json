@@ -6,14 +6,22 @@
       "description": "A Star Wars enthusiast\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T22:10:20+13:00"
+      "last_modified": "2020-11-29T22:15:42+13:00"
     },
     {
       "path": "contact.html",
       "title": "Contact Me",
       "author": [],
       "contents": "\r\n email: anran.zhao@auckland.ac.nz\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T22:10:21+13:00"
+      "last_modified": "2020-11-29T22:15:43+13:00"
+    },
+    {
+      "path": "CV.html",
+      "title": "CV",
+      "description": "Under development...",
+      "author": [],
+      "contents": "\r\nUnder development…\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-11-29T22:15:44+13:00"
     },
     {
       "path": "index.html",
@@ -21,21 +29,29 @@
       "description": "Always more to be figured out... \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nA Ph.D in progress\r\nKind of a nerd\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T22:10:23+13:00"
+      "last_modified": "2020-11-29T22:15:46+13:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publicatoins",
+      "description": "Selected research output\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-11-29T22:15:47+13:00"
     },
     {
       "path": "rambling.html",
       "title": "All blogs",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T22:10:24+13:00"
+      "last_modified": "2020-11-29T22:15:48+13:00"
     },
     {
       "path": "techy.html",
       "title": "Techy blogs",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-29T22:10:25+13:00"
+      "last_modified": "2020-11-29T22:15:49+13:00"
     }
   ],
   "collections": ["posts/posts.json"]

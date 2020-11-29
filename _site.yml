@@ -18,6 +18,10 @@ navbar:
           href: rambling.html
         - text: "Getting techy"
           href: techy.html
+    - text: "Publications"
+      href: publications.html
+    - text: "CV"
+      href: cv.html
     - text: "Contact"
       href: contact.html
     - icon: fa fa-rss
