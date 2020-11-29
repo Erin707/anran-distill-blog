@@ -78,7 +78,9 @@ d-appendix {
 
 img {
   border-radius: 60%;
-  width: 200px;
+  padding: 5px;
+  width: 100px;
+  height: auto;
   display: block;
   margin: auto;
 }
