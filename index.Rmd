@@ -6,8 +6,19 @@ site: distill::distill_website
 
 ---
 
+```{r setup, include=FALSE}
+library(knitr)
+library(kableExtra)
+```
 
-![](Avatar.jpg){width=50%}
+
+
+```{r, echo=FALSE,out.width= "50%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("Avatar.jpg")
+```
+
+
 
 - A Ph.D in progress
 - Kind of a nerd
+
