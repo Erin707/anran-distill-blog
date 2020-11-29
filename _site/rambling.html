@@ -90,6 +90,7 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
   <title>Anran Zhao: All blogs</title>
   
   
+  <link rel="icon" type="image/vnd.microsoft.icon" href="image/favicon.ico"/>
   
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
@@ -2087,6 +2088,24 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
   
   
   
+  @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:300, 300i&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css?family=DM+Mono&display=swap');
+  
+  
+  
+  body{  /*-- whole website background color --*/
+    background-color: #E4F4EE;
+    font-family: "Work Sans";
+    /*color: #1f1f1f;*/
+    color: #405359;
+    font-size: 16px;
+  }
+  
+  
+  
   html {
     /*-- Main font sizes --*/
     --title-size:      50px;
@@ -2134,11 +2153,18 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
   
   .distill-site-header {
     --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
+    --text-color:       #F9FFFC;
+    --font-size:        15px;
+    --font-family:      "Libre Baskerville";
+    --hover-color:      #F9FFFC;
+    --bkgd-color:       #6B9080;
+    --text-transform:   uppercase;
   }
+  
+  .distill-site-header .logo img{
+    max-height: 40px; /* Makes logo bigger, default was 20px */
+  }
+  
   
   .distill-site-footer {
     --text-color:       rgba(255, 255, 255, 0.8);
@@ -2529,22 +2555,6 @@ function init_posts_list() {
 <p>A short description of the post.</p>
 </div>
 </a>
-<a href="posts/2020-11-29-new-post/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Nov. 28, 2020</div>
-<div class="dt-authors">
-<div class="dt-author">Anran Zhao</div>
-<div class="dt-author"></div>
-</div>
-</div>
-<div class="thumbnail"></div>
-<div class="description">
-<h2>Just to remember how things are done</h2>
-<div class="dt-tags"></div>
-<p>A short description of the post.</p>
-</div>
-</a>
 </div>
 <div class="posts-sidebar">
 <div class="sidebar-section categories">
@@ -2552,7 +2562,7 @@ function init_posts_list() {
 <ul>
 <li>
 <a href="#category:articles">articles</a>
-<span class="category-count">(3)</span>
+<span class="category-count">(2)</span>
 </li>
 <li>
 <a href="#category:confirmatory_factor_analysis">confirmatory factor analysis</a>
@@ -2569,7 +2579,7 @@ function init_posts_list() {
 <a href="#">More articles &raquo;</a>
 </div>
 </div>
-<!--/radix_placeholder_article_listing-->
+<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
 <h1>All blogs</h1>

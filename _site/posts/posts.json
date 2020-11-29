@@ -35,26 +35,5 @@
     "preview": {},
     "last_modified": "2020-11-29T20:14:14+13:00",
     "input_file": {}
-  },
-  {
-    "path": "posts/2020-11-29-new-post/",
-    "title": "Just to remember how things are done",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Anran Zhao",
-        "url": "https://anran.netlify.app"
-      },
-      {
-        "name": "",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-29",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2020-11-29T22:36:43+13:00",
-    "input_file": "new-post.utf8.md"
   }
 ]

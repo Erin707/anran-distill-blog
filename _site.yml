@@ -1,6 +1,7 @@
 ---
 name: "My distill blog"
 title: "Anran Zhao"
+favicon: image/favicon.ico
 description: |
   Anran
 base_url: https://anran.netlify.app

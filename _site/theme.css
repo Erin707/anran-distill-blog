@@ -13,6 +13,24 @@
 
 
 
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:300, 300i&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=DM+Mono&display=swap');
+
+
+
+body{  /*-- whole website background color --*/
+  background-color: #E4F4EE;
+  font-family: "Work Sans";
+  /*color: #1f1f1f;*/
+  color: #405359;
+  font-size: 16px;
+}
+
+
+
 html {
   /*-- Main font sizes --*/
   --title-size:      50px;
@@ -60,11 +78,18 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --text-color:       #F9FFFC;
+  --font-size:        15px;
+  --font-family:      "Libre Baskerville";
+  --hover-color:      #F9FFFC;
+  --bkgd-color:       #6B9080;
+  --text-transform:   uppercase;
 }
+
+.distill-site-header .logo img{
+  max-height: 40px; /* Makes logo bigger, default was 20px */
+}
+
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
