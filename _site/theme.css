@@ -30,7 +30,6 @@ html, body, p {
   font-weight: 200;
   line-height: 1.3; 
   font-size: 1.0em;
-  color: #333333;
   font-style: normal;
   
 }
@@ -90,7 +89,7 @@ d-appendix {
   --font-size:        15px;
   --font-family:      'Libre Baskerville';
   --hover-color:      #F9FFFC;
-  --bkgd-color:       #6B9080;
+  --bkgd-color:       #0F7D63;
   --text-transform:   uppercase;
 }
 
