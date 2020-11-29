@@ -1,19 +1,19 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2020-11-29-my-first-ramble/",
+    "title": "my first ramble",
+    "description": "A short description of the post.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Anran Zhao",
+        "url": "https://anran.netlify.app"
       }
     ],
     "date": "2020-11-29",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nThis is my very first blog!\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-11-29T19:34:15+13:00",
+    "last_modified": "2020-11-29T20:14:14+13:00",
     "input_file": {}
   }
 ]

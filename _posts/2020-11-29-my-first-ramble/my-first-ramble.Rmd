@@ -1,0 +1,15 @@
+---
+title: "my first ramble"
+description: |
+  A short description of the post.
+author:
+  - name: Anran Zhao
+    url: https://anran.netlify.app
+date: 11-29-2020
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+This is my very first blog!
