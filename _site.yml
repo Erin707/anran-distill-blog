@@ -1,12 +1,17 @@
+---
 name: "My distill blog"
-title: "My Blog"
+title: "Anran Zhao"
 description: |
-  My Blog
+  Anran
 output_dir: "_site"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About Me"
+    - text: "Blog"
       href: about.html
+    - text: "Contact"
+    
 output: distill::distill_article
+---
