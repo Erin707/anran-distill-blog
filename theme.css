@@ -77,7 +77,8 @@ d-appendix {
 /* Add any additional CSS rules below                      */
 
 img {
+  border-radius: 60%;
   width: 400px;
   display: block;
-  margin: 0 auto;
+  margin: auto;
 }
