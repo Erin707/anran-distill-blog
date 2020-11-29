@@ -26,5 +26,14 @@
       <guid>https://anran.netlify.app/posts/2020-11-29-my-first-ramble</guid>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Just to remember how things are done</title>
+      <dc:creator>Anran Zhao</dc:creator>
+      <dc:creator/>
+      <link>https://anran.netlify.app/posts/2020-11-29-new-post</link>
+      <description>A short description of the post.</description>
+      <guid>https://anran.netlify.app/posts/2020-11-29-new-post</guid>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
