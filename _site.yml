@@ -1,6 +1,7 @@
 ---
 name: "My distill blog"
 title: "Anran Zhao"
+theme: theme.css
 favicon: image/favicon.ico
 description: |
   Anran
@@ -9,7 +10,6 @@ collections:
   posts:
     citations: false
 output_dir: "_site"
-theme: theme.css
 navbar:
   right:
     - text: "Home"

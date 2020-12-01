@@ -2111,16 +2111,32 @@ d-appendix {
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
 
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
 
-html, body, p {
-  
-  font-family: 'Lato', sans-serif;
-  font-weight: 200;
-  line-height: 1.3; 
-  font-size: 1.0em;
-  font-style: normal;
-  
+@import url('https://fonts.googleapis.com/css2?family=Amiri');
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+
+html {
+  /*-- Specify custom fonts ~~~ must be imported above   --*/
+  --heading-font:    font-family: 'Castoro', serif;
+  --mono-font:       "DM Mono", monospace;
+  --body-font:       'Lato', sans-serif;         /* edited */
+  --navbar-font:     font-family: 'Castoro', serif;
 }
+
+
+
+
 
 body{  /*-- whole website background color --*/
   background-color: #E4F4EE;
@@ -2195,6 +2211,8 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below */
+/*-- INDEX PAGE IMAGE STYLE --*/
+
 
 img {
   border-radius: 60%;
@@ -2202,7 +2220,9 @@ img {
   height: auto;
   display: block;
   margin: auto;
-}</style>
+}
+
+</style>
 <style type="text/css">
 /* base style */
 

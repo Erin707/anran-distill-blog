@@ -9,6 +9,7 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 library(knitr)
 library(kableExtra)
+library(bookdown)
 ```
 
 
@@ -17,7 +18,10 @@ library(kableExtra)
 knitr::include_graphics("Avatar.jpg")
 ```
 
+<right>
 
 - A Ph.D in progress
+
 - Kind of a nerd
 
+</right>
