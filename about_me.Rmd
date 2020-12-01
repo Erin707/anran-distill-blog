@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Hi there! My name is **Anran Zhao**. Currently I am a Ph.D candidate in the [Faculty of Educatoin and Social Work](https://www.auckland.ac.nz/en/education.html){target="_blank} at [The University of Auckland](https://www.auckland.ac.nz/en.html). I've only just decided to start blogging recently (Dec, 2020) as I was pulling my hair out rushing the finishing line of my thesis. Learning how to code and build my own website has strangely been quite a stress relief.\
 
-I consider this place as a playground to experiment fun and new things. Serious stuff such as research, interesting stuff such as statistics, fun stuff such as coding (I know a bit of R but I'd like to develop my skills in Python and SQl), or even better, **STAR WARS!**\
+I consider this place as a playground to experiment fun and new things. Serious stuff such as research, interesting stuff such as statistics, fun stuff such as coding (I know a bit of R but I'd like to develop my skills in Python and SQL), toy stuff such as LEGO, or even better, **STAR WARS!**\
 
 This site is still quite empty. I will put it aside for a while (*hopefully*) until I am done with the thesis.\
 
