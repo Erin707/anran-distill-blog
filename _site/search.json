@@ -6,14 +6,14 @@
       "description": "A Star Wars enthusiast\n",
       "author": [],
       "contents": "\r\nThings that keep me up all night: \r\nI didn’t read the right literature.\r\nMy codes might be wrong.\r\nHi there! My name is Anran Zhao. Currently I am a Ph.D candidate in the Faculty of Educatoin and Social Work at The University of Auckland. I’ve only just decided to start blogging recently (Dec, 2020) as I was pulling my hair out rushing the finishing line of my thesis. Learning how to code and build my own website has strangely been quite a stress relief.\r\nI consider this place as a playground to experiment fun and new things. Serious stuff such as research, interesting stuff such as statistics, fun stuff such as coding (I know a bit of R but I’d like to develop my skills in Python and SQL), toy stuff such as LEGO, or even better, STAR WARS!\r\nThis site is still quite empty. I will put it aside for a while (hopefully) until I am done with the thesis.\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-02T00:06:30+13:00"
+      "last_modified": "2020-12-02T00:38:41+13:00"
     },
     {
       "path": "contact.html",
       "title": "Contact Me",
       "author": [],
       "contents": "\r\n email: anran.zhao@auckland.ac.nz\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-01T23:57:30+13:00"
+      "last_modified": "2020-12-02T00:38:43+13:00"
     },
     {
       "path": "CV.html",
@@ -21,15 +21,15 @@
       "description": "Under development...",
       "author": [],
       "contents": "\r\nUnder development…\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-01T23:57:32+13:00"
+      "last_modified": "2020-12-02T00:38:44+13:00"
     },
     {
       "path": "index.html",
       "title": "Anran Zhao",
       "description": "Always more to be figured out... \n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n\r\nA Ph.D in progress\r\nKind of a nerd\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-01T23:57:35+13:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nA Ph.D in progress\r\nKind of a nerd\r\nInternational Large-Scale Assessment\r\nMeasurement Invariance\r\nPropensity Score Matching\r\nItem Response Theory\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-02T00:38:46+13:00"
     },
     {
       "path": "publications.html",
@@ -37,21 +37,21 @@
       "description": "Selected research output\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-02T00:06:40+13:00"
+      "last_modified": "2020-12-02T00:38:47+13:00"
     },
     {
       "path": "rambling.html",
       "title": "All blogs",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-01T23:57:38+13:00"
+      "last_modified": "2020-12-02T00:38:49+13:00"
     },
     {
       "path": "techy.html",
       "title": "Techy blogs",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-01T23:57:40+13:00"
+      "last_modified": "2020-12-02T00:38:50+13:00"
     }
   ],
   "collections": ["posts/posts.json"]

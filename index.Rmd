@@ -12,16 +12,34 @@ library(kableExtra)
 library(bookdown)
 ```
 
+:::: {style="display: flex;"}
 
-
-```{r, echo=FALSE,out.width= "50%", out.extra='style="float:left; padding:10px"'}
+::: {.column width="100%"}
+```{r, echo=FALSE,out.width= "90%", out.extra='style="float:left; padding:5px"'}
 knitr::include_graphics("Avatar.jpg")
 ```
+::: 
 
-<right>
+::: {}
+\
+\
+\
+\
+\
+::: 
+
+::: {.column width="100%" align=center}
+\
 
 - A Ph.D in progress
+- Kind of a **nerd**
+- International Large-Scale Assessment
+- Measurement Invariance
+- Propensity Score Matching
+- Item Response Theory
 
-- Kind of a nerd
 
-</right>
+
+:::
+
+::::
