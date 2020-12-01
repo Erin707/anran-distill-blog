@@ -12,15 +12,27 @@ library(kableExtra)
 library(bookdown)
 ```
 
+
+```{css, echo=FALSE}
+img {
+  border-radius: 60%;
+  padding: 5px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+```
+
+
 :::: {style="display: flex;"}
 
 ::: {.column width="100%"}
-```{r, echo=FALSE,out.width= "90%", out.extra='style="float:left; padding:5px"'}
+```{r class.source="img", echo=FALSE,out.width= "90%", out.extra='style="float:left; padding:5px"'}
 knitr::include_graphics("Avatar.jpg")
 ```
 ::: 
 
-::: {}
+::: {.col data-latex="{0.05\textwidth}"}
 \
 \
 \
