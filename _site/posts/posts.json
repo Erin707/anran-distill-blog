@@ -11,12 +11,13 @@
     ],
     "date": "2020-11-29",
     "categories": [
+      "techy",
       "lavaan",
       "confirmatory factor analysis"
     ],
-    "contents": "\r\nmy first techy post.\r\n\r\n\r\n\r\n",
+    "contents": "\nmy first techy post.\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-11-29T20:35:13+13:00",
+    "last_modified": "2021-03-30T21:30:54+13:00",
     "input_file": {}
   },
   {
@@ -30,10 +31,12 @@
       }
     ],
     "date": "2020-11-29",
-    "categories": [],
-    "contents": "\r\nThis is my very first blog!\r\n\r\n\r\n\r\n",
+    "categories": [
+      "ramble"
+    ],
+    "contents": "\nThis is my very first blog!\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-11-29T20:14:14+13:00",
+    "last_modified": "2021-03-30T21:30:46+13:00",
     "input_file": {}
   }
 ]

@@ -17,11 +17,7 @@ navbar:
     - text: "About Me"
       href: about_me.html
     - text: "Blog"
-      menu: 
-        - text: "Rambling"
-          href: rambling.html
-        - text: "Getting techy"
-          href: techy.html
+      href: blog.html
     - text: "Publications"
       href: publications.html
     - text: "CV"
